@@ -1,1 +1,0 @@
-# NeuronetiX-Internship
