@@ -1,4 +1,4 @@
-# Salary Dataset - Simple Linear Regression
+# Simple Linear Regression - Salary Dataset
 ## INTRODUCTION
 - In this project we will working with the Salary Dataset from Kaggle which is designed for applying Simple Linear Regression. 
 - The primary goal is to understand the relationship between years of experience and salary allowing us to predict the expected salary for an individual based on their years of experience.
