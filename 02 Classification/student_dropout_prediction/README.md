@@ -1,6 +1,6 @@
 # Student dropout prediction
 
-This project is focused on predicting student droput rates by utilizing various machine learning algorithms.
+This project is focused on predicting student droput rates by utilizing various machine learning algorithms such as Logistic Regression, SVM, Random Forest, and KNN.
 
    The dataset contains a lot of features. So, we done features selection by set a correlation threshold equals to 0.1 and remove columns with correlations below that threshold and columns that are likely not related to the students dropout.
   
